@@ -6,6 +6,7 @@ FORMAT_CHOICES = (
     'json',
     'shp',
     'xml',
+    'ods',
     #'pdf',
     #'zip',
     #'doc',
